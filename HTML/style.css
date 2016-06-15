@@ -1,0 +1,58 @@
+	
+			
+			a:hover{
+					color:#02b8dc;
+					text-decoration: none;
+			}
+
+			.navLinks *{
+
+				margin-top: 50px;
+				padding-top:90px;
+				padding-right: 28px;
+				color:#1c3a50;
+				text-decoration: none;
+			}
+
+			.bannerTextLabel{
+				size: 14px; color:#6D6E71;
+			}
+
+			#rectangle{
+			    width:140;
+			    height:47px;
+			    background:#EF5A29;
+			}
+
+			.reasonsStyle{
+				padding-left: 150px; padding-top: 0px;
+				padding-right:150px; background-color:#99ccff;
+				padding-bottom: 30px;
+			}
+
+			.deals{
+				padding: 15px;
+				padding-right: 0px;
+				padding-top: 0px;
+			}
+
+			.offer-footer{
+                background-color: #02b8DC;
+                padding: 22px;
+                text-align: center;
+                font-size: 24px;
+                color: white;
+            }
+
+            .footer {
+			    background-color: #1c3a50;
+			    padding-top: 50px;
+			    padding-right: 100px;
+			}
+
+			.col{
+				font-size: 12px;
+				color: #fff;
+				padding-left: 100px;
+			}
+        
